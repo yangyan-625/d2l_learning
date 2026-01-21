@@ -1,0 +1,44 @@
+D:\
+└── deep-learning/
+    ├── code/                 # 代码目录
+    │   ├── book-code/       # 《动手学深度学习》官方代码
+    │   │   ├── chapter2_preliminaries/
+    │   │   ├── chapter3_linear-networks/
+    │   │   └── ...
+    │   ├── my-implementations/  # 自己的实现
+    │   └── utils/           # 工具函数
+    │
+    ├── notebooks/           # Jupyter Notebooks（主要学习区）
+    │   ├── 01-引言/
+    │   ├── 02-预备知识/
+    │   ├── 03-线性神经网络/
+    │   └── ...
+    │
+    ├── projects/            # 项目实战
+    │   ├── mnist-classification/
+    │   ├── cifar10-cnn/
+    │   └── personal-project/
+    │
+    ├── data/               # 数据集
+    │   ├── raw/           # 原始数据
+    │   ├── processed/     # 处理后的数据
+    │   └── external/      # 外部数据集
+    │
+    ├── models/             # 保存的模型
+    │   ├── checkpoints/   # 训练中的检查点
+    │   └── final/         # 最终模型
+    │
+    ├── experiments/        # 实验记录
+    │   ├── 2024-01-15-linear-reg/
+    │   └── 2024-01-20-cnn-experiment/
+    │
+    ├── docs/              # 文档和笔记
+    │   ├── notes/        # 学习笔记
+    │   ├── papers/       # 论文阅读
+    │   └── references/   # 参考资料
+    │
+    ├── environment/       # 环境配置
+    │   ├── requirements.txt
+    │   └── setup.py
+    │
+    └── README.md          # 项目说明
